@@ -1,8 +1,8 @@
 import smtplib
 from email.message import EmailMessage
  
-SENDER_EMAIL = "aniketchattopadhyay01@gmail.com"
-RECEIVER_EMAIL = "bvarshar@gmail.com" 
+SENDER_EMAIL = "****"
+RECEIVER_EMAIL = "****" 
 APP_PASSWORD = "qhrn seca ydiq qtcc"  # Use Gmail App Password
  
 def send_email_alert(temp):
